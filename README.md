@@ -1,4 +1,4 @@
-# HotelReservation
+# HOTEL RESERVATİON
 <p> Kullanıcıdan alınan aylık abonelik ücreti karşısında her ay süpriz içerikli kutular yolluyoruz. Kullanıcı istediği taktirde siteye giriş yaparak daha önceki ayların da kutularını satın alabıiliyor.</p>
    
 # PROJE EKRAN GÖRÜNTÜLERİ
